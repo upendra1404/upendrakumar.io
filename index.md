@@ -18,12 +18,12 @@
   <main>
     <section id="about">
       <h2>About Me</h2>
-      <p>Brief introduction goes here.</p>
+      <p>I am a experienced principal cloud data architect with experience in data engineering, data modeling, product development, product management. A very proficient engineering professional building application in distributed processing, AI/ML, Agentic AI, GenAI, RAG, LLM.</p>
     </section>
     <section id="projects">
       <h2>Projects</h2>
       <ul>
-        <li><a href="#">Project One</a> – short description.</li>
+        <li><a href="#">EWS - PAZE wallet modernization</a> – short description.</li>
       </ul>
     </section>
   </main>
